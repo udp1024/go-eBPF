@@ -1,0 +1,12 @@
+{
+	"rules": [
+		{
+			"service": "HTTP",
+			"destination": "http://127.0.0.1:80"
+		},
+		{
+			"service": "HTTPS",
+			"destination": "https://127.0.0.1:443"
+		}
+	]
+}

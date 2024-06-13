@@ -1,0 +1,18 @@
+[
+    {
+        "DateTimeStamp": "2024-06-13T13:08:24-06:00",
+        "sourceIP": "192.168.1.100",
+        "requestService": "HTTP",
+        "sourcePort": "45678",
+        "DestinationIP": "192.168.1.200",
+        "DestinationPort": "80"
+    },
+    {
+        "DateTimeStamp": "2024-06-13T13:09:24-06:00",
+        "sourceIP": "192.168.1.101",
+        "requestService": "HTTPS",
+        "sourcePort": "45679",
+        "DestinationIP": "192.168.1.201",
+        "DestinationPort": "443"
+    }
+]
