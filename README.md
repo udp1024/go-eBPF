@@ -1,2 +1,3 @@
 # go-eBPF
-a simple eBPF based router for layer 7 protocols
+A simple eBPF router for rule-based, layer 7 protocol handling.
+
